@@ -23,11 +23,11 @@ public class Puzzle : MonoBehaviour
         Init();
 
         //let's shuffle a lot 
-        //for (int i = 0; i < 100; i++)
-        //{
+        for (int i = 0; i < 100; i++)
+        {
         Shuffle();
 
-        //}
+        }
 
 
     }
